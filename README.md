@@ -118,4 +118,6 @@ Darknet markets are tools for conducting private, anonymous transactions. By fol
 
 Please contribute and add stars to this repo.
 
-Update: Fixed broken links in deployment documentation
+
+
+Update:  18.07.2025 15:10 Fixed broken image references in docs
